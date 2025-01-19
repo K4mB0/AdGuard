@@ -1,0 +1,4 @@
+||instagram.com^$denyallow=ip4.instagram.com|ip6.instagram.com
+||cdninstagram.com^$denyallow=ip4.cdninstagram.com|ip6.cdninstagram.com
+||ig.me^$denyallow=ip4.ig.me|ip6.ig.me
+||igcdn.com^$denyallow=ip4.igcdn.com|ip6.igcdn.com

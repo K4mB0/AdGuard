@@ -1,0 +1,4 @@
+||whatsapp.com^$denyallow=ip4.whatsapp.com|ip6.whatsapp.com
+||whatsapp.net^$denyallow=ip4.whatsapp.net|ip6.whatsapp.net
+||wa.me^$denyallow=ip4.wa.me|ip6.wa.me
+||whatsapp.biz^$denyallow=ip4.whatsapp.biz|ip6.whatsapp.biz

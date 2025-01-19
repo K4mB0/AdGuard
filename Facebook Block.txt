@@ -1,0 +1,41 @@
+# Facebook Main Block with IP Exceptions
+||facebook.com^$denyallow=ip4.facebook.com|ip6.facebook.com
+||fb.com^$denyallow=ip4.fb.com|ip6.fb.com
+||fbcdn.net^$denyallow=ip4.fbcdn.net|ip6.fbcdn.net
+||fbsbx.com^$denyallow=ip4.fbsbx.com|ip6.fbsbx.com
+||facebook.net^$denyallow=ip4.facebook.net|ip6.facebook.net
+||messenger.com^$denyallow=ip4.messenger.com|ip6.messenger.com
+
+# Facebook IP Ranges
+157.240.0.0/16
+129.134.0.0/16
+102.132.96.0/20
+185.60.216.0/22
+31.13.24.0/21
+31.13.64.0/18
+45.64.40.0/22
+66.220.144.0/20
+69.63.176.0/20
+69.171.224.0/19
+74.119.76.0/22
+
+# Facebook IPv6
+2a03:2880::/32
+2c0f:fb50::/32
+2620:0:1c00::/40
+2a03:2880:f000::/48
+2a03:2880:f001::/48
+2a03:2880:f002::/48
+2a03:2880:f003::/48
+2a03:2880:f004::/48
+2a03:2880:f005::/48
+2a03:2880:f006::/48
+2a03:2880:f007::/48
+2a03:2880:f008::/48
+2a03:2880:f009::/48
+2a03:2880:f00a::/48
+2a03:2880:f00b::/48
+2a03:2880:f00c::/48
+2a03:2880:f00d::/48
+2a03:2880:f00e::/48
+2a03:2880:f00f::/48

@@ -1,0 +1,3 @@
+||snapchat.com^$denyallow=ip4.snapchat.com|ip6.snapchat.com
+||snap.com^$denyallow=ip4.snap.com|ip6.snap.com
+||snapkit.com^$denyallow=ip4.snapkit.com|ip6.snapkit.com

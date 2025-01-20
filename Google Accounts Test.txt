@@ -1,0 +1,17 @@
+# Chrome Account Management Block Rules
+
+# Block account switching and adding
+||accounts.google.com/signin/v2^$denyallow=ip4.accounts.google.com/signin/v2|ip6.accounts.google.com/signin/v2
+||accounts.google.com/SignUp^$denyallow=ip4.accounts.google.com/SignUp|ip6.accounts.google.com/SignUp
+||accounts.google.com/AddSession^$denyallow=ip4.accounts.google.com/AddSession|ip6.accounts.google.com/AddSession
+||accounts.google.com/accountchooser^$denyallow=ip4.accounts.google.com/accountchooser|ip6.accounts.google.com/accountchooser
+
+# Block people picker/account switcher
+||people-pa.googleapis.com^$denyallow=ip4.people-pa.googleapis.com|ip6.people-pa.googleapis.com
+||people-pa.clients6.google.com^$denyallow=ip4.people-pa.clients6.google.com|ip6.people-pa.clients6.google.com
+
+# Block account management pages
+||myaccount.google.com/u/1^$denyallow=ip4.myaccount.google.com/u/1|ip6.myaccount.google.com/u/1
+||myaccount.google.com/u/2^$denyallow=ip4.myaccount.google.com/u/2|ip6.myaccount.google.com/u/2
+||myaccount.google.com/u/3^$denyallow=ip4.myaccount.google.com/u/3|ip6.myaccount.google.com/u/3
+||myaccount.google.com/u/4^$denyallow=ip4.myaccount.google.com/u/4|ip6.myaccount.google.com/u/4

@@ -1,29 +1,49 @@
-# Telegram Block Rules
+# Enhanced Telegram Block Rules
 
-# Main Telegram Domains
+# Main Domains
 ||telegram.org^$denyallow=ip4.telegram.org|ip6.telegram.org
 ||telegram.me^$denyallow=ip4.telegram.me|ip6.telegram.me
 ||t.me^$denyallow=ip4.t.me|ip6.t.me
+||tg.org^$denyallow=ip4.tg.org|ip6.tg.org
+||telegram.dog^$denyallow=ip4.telegram.dog|ip6.telegram.dog
+||telesco.pe^$denyallow=ip4.telesco.pe|ip6.telesco.pe
 
-# Telegram Web Services
-||web.telegram.org^$denyallow=ip4.web.telegram.org|ip6.web.telegram.org
-||webz.telegram.org^$denyallow=ip4.webz.telegram.org|ip6.webz.telegram.org
-||webc.telegram.org^$denyallow=ip4.webc.telegram.org|ip6.webc.telegram.org
-
-# Telegram API and CDN
+# API and Services
 ||api.telegram.org^$denyallow=ip4.api.telegram.org|ip6.api.telegram.org
-||cdn.telegram.org^$denyallow=ip4.cdn.telegram.org|ip6.cdn.telegram.org
-||cdn-telegram.org^$denyallow=ip4.cdn-telegram.org|ip6.cdn-telegram.org
+||my.telegram.org^$denyallow=ip4.my.telegram.org|ip6.my.telegram.org
+||oauth.telegram.org^$denyallow=ip4.oauth.telegram.org|ip6.oauth.telegram.org
 
-# Telegram Desktop
-||desktop.telegram.org^$denyallow=ip4.desktop.telegram.org|ip6.desktop.telegram.org
-||updates.tdesktop.com^$denyallow=ip4.updates.tdesktop.com|ip6.updates.tdesktop.com
+# DC IPs (Data Centers)
+||149.154.160.0/20^$denyallow=ip4.149.154.160.0/20|ip6.149.154.160.0/20
+||91.108.4.0/22^$denyallow=ip4.91.108.4.0/22|ip6.91.108.4.0/22
+||91.108.8.0/22^$denyallow=ip4.91.108.8.0/22|ip6.91.108.8.0/22
+||91.108.12.0/22^$denyallow=ip4.91.108.12.0/22|ip6.91.108.12.0/22
+||91.108.16.0/22^$denyallow=ip4.91.108.16.0/22|ip6.91.108.16.0/22
+||91.108.56.0/22^$denyallow=ip4.91.108.56.0/22|ip6.91.108.56.0/22
 
-# Telemetry and Updates
+# IPv6 Ranges
+||2001:67c:4e8::/48^$denyallow=ip4.2001:67c:4e8::/48|ip6.2001:67c:4e8::/48
+||2001:b28:f23d::/48^$denyallow=ip4.2001:b28:f23d::/48|ip6.2001:b28:f23d::/48
+||2001:b28:f23f::/48^$denyallow=ip4.2001:b28:f23f::/48|ip6.2001:b28:f23f::/48
+
+# Push Services
+||push.apple.com^$denyallow=ip4.push.apple.com|ip6.push.apple.com
 ||venus.web.telegram.org^$denyallow=ip4.venus.web.telegram.org|ip6.venus.web.telegram.org
 ||pluto.web.telegram.org^$denyallow=ip4.pluto.web.telegram.org|ip6.pluto.web.telegram.org
 ||aurora.web.telegram.org^$denyallow=ip4.aurora.web.telegram.org|ip6.aurora.web.telegram.org
 
-# File Hosting
-||tg.org^$denyallow=ip4.tg.org|ip6.tg.org
-||comments.app^$denyallow=ip4.comments.app|ip6.comments.app
+# Desktop Specific
+||updates.tdesktop.com^$denyallow=ip4.updates.tdesktop.com|ip6.updates.tdesktop.com
+||desktop.telegram.org^$denyallow=ip4.desktop.telegram.org|ip6.desktop.telegram.org
+||web.telegram.org^$denyallow=ip4.web.telegram.org|ip6.web.telegram.org
+||webz.telegram.org^$denyallow=ip4.webz.telegram.org|ip6.webz.telegram.org
+||webc.telegram.org^$denyallow=ip4.webc.telegram.org|ip6.webc.telegram.org
+
+# Additional CDNs
+||cdn.telegram.org^$denyallow=ip4.cdn.telegram.org|ip6.cdn.telegram.org
+||cdn-telegram.org^$denyallow=ip4.cdn-telegram.org|ip6.cdn-telegram.org
+||cdn1.telegram-cdn.org^$denyallow=ip4.cdn1.telegram-cdn.org|ip6.cdn1.telegram-cdn.org
+||cdn2.telegram-cdn.org^$denyallow=ip4.cdn2.telegram-cdn.org|ip6.cdn2.telegram-cdn.org
+||cdn3.telegram-cdn.org^$denyallow=ip4.cdn3.telegram-cdn.org|ip6.cdn3.telegram-cdn.org
+||cdn4.telegram-cdn.org^$denyallow=ip4.cdn4.telegram-cdn.org|ip6.cdn4.telegram-cdn.org
+||cdn5.telegram-cdn.org^$denyallow=ip4.cdn5.telegram-cdn.org|ip6.cdn5.telegram-cdn.org

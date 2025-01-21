@@ -9,6 +9,9 @@ VPN Services Block Rules
 ||protonvpn.com^$denyallow=ip4.protonvpn.com|ip6.protonvpn.com
 ||protonvpn.net^$denyallow=ip4.protonvpn.net|ip6.protonvpn.net
 ||proton.me^$denyallow=ip4.proton.me|ip6.proton.me
+||*.surfshark.com^$important
+||surfshark.*^$important
+||wgs.prod.surfshark.com^$important
 ||stats.surfshark.com^$important
 ||api.surfshark.com^$important
 ||ux.surfshark.com^$important

@@ -70,3 +70,5 @@
 ||withai.ai^$third-party
 ||*.withai.ai^$all
 /^https?:\/\/([a-z0-9-]+\.)*withai\.ai/
+
+

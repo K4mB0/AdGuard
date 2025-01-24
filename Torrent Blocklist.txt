@@ -19,3 +19,17 @@
 ||torrentproject.*^
 ||all4nothin.net^
 ||allfornothing.net^
+||darkness.services^
+||itzmx.com^
+||richardsw.club^
+||rer.lol^
+||fins.com^
+||abcvg.info^
+
+# Common tracker subdomains
+||tracker.darkness.services^
+||tracker2.itzmx.com^
+||isk.richardsw.club^
+||ipv6.rer.lol^
+||ns-1.x-fins.com^
+||1337.abcvg.info^

@@ -33,3 +33,14 @@
 ||ipv6.rer.lol^
 ||ns-1.x-fins.com^
 ||1337.abcvg.info^
+||shubt.net^
+||leechshield.link^
+||tracker.leechshield.link^
+||lintk.me^
+||tracker.lintk.me^
+||vanitycore.co^
+||tracker.vanitycore.co^
+||beeimg.com^
+||tracker.beeimg.com^
+||hotplug.ru^
+||retracker.hotplug.ru^

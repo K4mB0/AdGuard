@@ -60,3 +60,7 @@
 ||kajiwoto.com^$denyallow=ip4.kajiwoto.com|ip6.kajiwoto.com
 ||lilith.ai^$denyallow=ip4.lilith.ai|ip6.lilith.ai
 ||anima.ai^$denyallow=ip4.anima.ai|ip6.anima.ai
+
+# Sakura and related 
+||sakura.fm^$important
+||*.sakura.fm^$important

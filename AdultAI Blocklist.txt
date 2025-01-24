@@ -64,3 +64,9 @@
 # Sakura and related 
 ||sakura.fm^$important
 ||*.sakura.fm^$important
+
+# With.ai and related 
+||withai.ai^$document
+||withai.ai^$third-party
+||*.withai.ai^$all
+/^https?:\/\/([a-z0-9-]+\.)*withai\.ai/

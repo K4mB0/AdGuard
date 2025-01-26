@@ -1,5 +1,0 @@
-||janitorai.com^$denyallow=ip4.janitorai.com|ip6.janitorai.com
-||janitor.ai^$denyallow=ip4.janitor.ai|ip6.janitor.ai
-||api.janitorai.com^$denyallow=ip4.api.janitorai.com|ip6.api.janitorai.com
-||static.janitorai.com^$denyallow=ip4.static.janitorai.com|ip6.static.janitorai.com
-||cdn.janitorai.com^$denyallow=ip4.cdn.janitorai.com|ip6.cdn.janitorai.com

@@ -1,3 +1,0 @@
-||twitter.com^$denyallow=ip4.twitter.com|ip6.twitter.com
-||x.com^$denyallow=ip4.x.com|ip6.x.com
-||twimg.com^$denyallow=ip4.twimg.com|ip6.twimg.com

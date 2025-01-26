@@ -1,65 +1,52 @@
-# Social Media Services Block Rules
+# Social Media Blocklist - Optimized
 
-# Facebook
-||facebook.com^$denyallow=ip4.facebook.com|ip6.facebook.com
-||fbcdn.net^$denyallow=ip4.fbcdn.net|ip6.fbcdn.net
-||fb.com^$denyallow=ip4.fb.com|ip6.fb.com
-||fb.gg^$denyallow=ip4.fb.gg|ip6.fb.gg
-||fbsbx.com^$denyallow=ip4.fbsbx.com|ip6.fbsbx.com
-||messenger.com^$denyallow=ip4.messenger.com|ip6.messenger.com
+# Major Platforms
+||facebook.com^$important
+||fbcdn.net^$important
+||fb.com^$important
+||fb.gg^$important
+||fbsbx.com^$important
 
-# Instagram
-||instagram.com^$denyallow=ip4.instagram.com|ip6.instagram.com
-||cdninstagram.com^$denyallow=ip4.cdninstagram.com|ip6.cdninstagram.com
-||ig.me^$denyallow=ip4.ig.me|ip6.ig.me
-||igcdn.com^$denyallow=ip4.igcdn.com|ip6.igcdn.com
+||instagram.com^$important
+||cdninstagram.com^$important
 
-# WhatsApp
-||whatsapp.com^$denyallow=ip4.whatsapp.com|ip6.whatsapp.com
-||whatsapp.net^$denyallow=ip4.whatsapp.net|ip6.whatsapp.net
-||wa.me^$denyallow=ip4.wa.me|ip6.wa.me
-||whatsapp.biz^$denyallow=ip4.whatsapp.biz|ip6.whatsapp.biz
+||twitter.com^$important
+||x.com^$important
+||twimg.com^$important
 
-# Twitter/X
-||twitter.com^$denyallow=ip4.twitter.com|ip6.twitter.com
-||x.com^$denyallow=ip4.x.com|ip6.x.com
-||twimg.com^$denyallow=ip4.twimg.com|ip6.twimg.com
+||tiktok.*^$important
+||tiktokcdn.*^$important
+||tiktokv.*^$important
+||musical.ly^$important
 
-# TikTok
-||tiktok.com^$denyallow=ip4.tiktok.com|ip6.tiktok.com
-||tiktokv.com^$denyallow=ip4.tiktokv.com|ip6.tiktokv.com
-||tiktokcdn.com^$denyallow=ip4.tiktokcdn.com|ip6.tiktokcdn.com
-||musical.ly^$denyallow=ip4.musical.ly|ip6.musical.ly
+||reddit.com^$important
+||redd.it^$important
+||redditmedia.com^$important
 
-# Reddit
-||reddit.com^$denyallow=ip4.reddit.com|ip6.reddit.com
-||redd.it^$denyallow=ip4.redd.it|ip6.redd.it
-||redditmedia.com^$denyallow=ip4.redditmedia.com|ip6.redditmedia.com
+||linkedin.com^$important
+||licdn.com^$important
 
-# LinkedIn
-||linkedin.com^$denyallow=ip4.linkedin.com|ip6.linkedin.com
-||licdn.com^$denyallow=ip4.licdn.com|ip6.licdn.com
+||pinterest.*^$important
+||pinimg.com^$important
 
-# Snapchat
-||snapchat.com^$denyallow=ip4.snapchat.com|ip6.snapchat.com
-||snap.com^$denyallow=ip4.snap.com|ip6.snap.com
-||snapkit.com^$denyallow=ip4.snapkit.com|ip6.snapkit.com
+||tumblr.com^$important
+||tmblr.co^$important
 
-# Pinterest
-||pinterest.com^$denyallow=ip4.pinterest.com|ip6.pinterest.com
-||pinimg.com^$denyallow=ip4.pinimg.com|ip6.pinimg.com
+# Regional
+||weibo.com^$important
+||weibo.cn^$important
+||vk.com^$important
+||ok.ru^$important
 
-# Tumblr
-||tumblr.com^$denyallow=ip4.tumblr.com|ip6.tumblr.com
-||tmblr.co^$denyallow=ip4.tmblr.co|ip6.tmblr.co
+# Content Networks
+||giphy.com^$important
+||imgur.com^$important
+||medium.com^$important
 
-# Discord
-||discord.com^$denyallow=ip4.discord.com|ip6.discord.com
-||discord.gg^$denyallow=ip4.discord.gg|ip6.discord.gg
-||discordapp.com^$denyallow=ip4.discordapp.com|ip6.discordapp.com
-||discord.media^$denyallow=ip4.discord.media|ip6.discord.media
-||discordapp.net^$denyallow=ip4.discordapp.net|ip6.discordapp.net
-||discordapp.page.link^$denyallow=ip4.discordapp.page.link|ip6.discordapp.page.link
-||discord.gift^$denyallow=ip4.discord.gift|ip6.discord.gift
-||discord.new^$denyallow=ip4.discord.new|ip6.discord.new
-||discord.store^$denyallow=ip4.discord.store|ip6.discord.store
+# Tracking/SDK Domains
+||connect.facebook.net^$important
+||connect.facebook.com^$important
+||graph.facebook.com^$important
+||business.facebook.com^$important
+||analytics.tiktok.com^$important
+||ads.tiktok.com^$important

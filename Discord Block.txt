@@ -1,9 +1,0 @@
-||discord.com^$denyallow=ip4.discord.com|ip6.discord.com
-||discord.gg^$denyallow=ip4.discord.gg|ip6.discord.gg
-||discordapp.com^$denyallow=ip4.discordapp.com|ip6.discordapp.com
-||discord.media^$denyallow=ip4.discord.media|ip6.discord.media
-||discordapp.net^$denyallow=ip4.discordapp.net|ip6.discordapp.net
-||discordapp.page.link^$denyallow=ip4.discordapp.page.link|ip6.discordapp.page.link
-||discord.gift^$denyallow=ip4.discord.gift|ip6.discord.gift
-||discord.new^$denyallow=ip4.discord.new|ip6.discord.new
-||discord.store^$denyallow=ip4.discord.store|ip6.discord.store

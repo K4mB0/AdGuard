@@ -1,3 +1,0 @@
-||reddit.com^$denyallow=ip4.reddit.com|ip6.reddit.com
-||redd.it^$denyallow=ip4.redd.it|ip6.redd.it
-||redditmedia.com^$denyallow=ip4.redditmedia.com|ip6.redditmedia.com

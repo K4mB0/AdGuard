@@ -1,6 +1,0 @@
-||character.ai^$denyallow=ip4.character.ai|ip6.character.ai
-||beta.character.ai^$denyallow=ip4.beta.character.ai|ip6.beta.character.ai
-||characterai.io^$denyallow=ip4.characterai.io|ip6.characterai.io
-||cdn.character.ai^$denyallow=ip4.cdn.character.ai|ip6.cdn.character.ai
-||static.character.ai^$denyallow=ip4.static.character.ai|ip6.static.character.ai
-||api.character.ai^$denyallow=ip4.api.character.ai|ip6.api.character.ai

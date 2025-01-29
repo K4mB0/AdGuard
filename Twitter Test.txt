@@ -56,11 +56,11 @@
 ||twitter.in^$important
 ||twitter.es^$important
 
-/^.*twitter.*\.com$/
-/^.*twimg.*\.com$/
-/^.*twttr.*\.com$/
-/^.*x\.com$/
-/^.*t\.co$/
+# /^.*twitter.*\.com$/
+# /^.*twimg.*\.com$/
+# /^.*twttr.*\.com$/
+# /^.*x\.com$/
+# /^.*t\.co$/
 
 ||cards-dev.twitter.com^$important
 ||publisher.twitter.com^$important

@@ -1,11 +1,5 @@
 # Instant Messaging Services Block Rules
 
-# WhatsApp
-||whatsapp.com^$denyallow=ip4.whatsapp.com|ip6.whatsapp.com
-||whatsapp.net^$denyallow=ip4.whatsapp.net|ip6.whatsapp.net
-||wa.me^$denyallow=ip4.wa.me|ip6.wa.me
-||whatsapp.biz^$denyallow=ip4.whatsapp.biz|ip6.whatsapp.biz
-
 # Telegram (including previously mentioned rules)
 ||*.telegram.*^$denyallow=ip4.*.telegram.*|ip6.*.telegram.*
 ||*.t.me^$denyallow=ip4.*.t.me|ip6.*.t.me

@@ -1,0 +1,86 @@
+# PayPal Blocking Rules for AdGuard Home
+
+# Main Domain Rules
+||paypal.com^
+||paypal.me^
+||paypalobjects.com^
+||paypallabs.com^
+||paypalcorp.com^
+||paypalcredit.com^
+
+# API and Gateway Rules
+||api.paypal.com^
+||api-m.paypal.com^
+||svcs.paypal.com^
+||gateway.paypal.com^
+||ipnpb.paypal.com^
+||api-aa.paypal.com^
+||api-3t.paypal.com^
+
+# CDN and Static Content Rules
+||www.paypalobjects.com^
+||static.paypal-communication.com^
+||images.paypal.com^
+||pics.paypal.com^
+||assets.paypal-communication.com^
+
+# Analytics and Tracking Rules
+||t.paypal.com^
+||beacon.paypal.com^
+||analytics.paypal.com^
+||tracking.paypal.com^
+||stats.paypal.com^
+||c.paypal.com^
+||b.stats.paypal.com^
+
+# Mobile and App-Specific Rules
+||m.paypal.com^
+||mobile.paypal.com^
+||venmo.paypal.com^
+||checkout.paypal.com^
+||connect.paypal.com^
+
+# Security and Authentication Rules
+||secure.paypal.com^
+||securepayments.paypal.com^
+||verification.paypal.com^
+||identity.paypal.com^
+||idcheck.paypal.com^
+||account-security.paypal.com^
+||signin.paypal.com^
+||login.paypal.com^
+
+# Business and Merchant Rules
+||business.paypal.com^
+||merchant.paypal.com^
+||merchantservices.paypal.com^
+||developer.paypal.com^
+||partners.paypal.com^
+||pilot-payflowpro.paypal.com^
+||payflowpro.paypal.com^
+
+# Communication Rules
+||message.paypal.com^
+||notify.paypal.com^
+||communications.paypal.com^
+||email.paypal.com^
+||epl.paypal.com^
+
+# Additional Service Domains
+||payflow.paypal.com^
+||history.paypal.com^
+||shopping.paypal.com^
+||donations.paypal.com^
+||gifts.paypal.com^
+||campaigns.paypal.com^
+
+# Braintree Related (PayPal Subsidiary)
+||braintreegateway.com^
+||braintreepayments.com^
+||braintree-api.com^
+
+# Custom Rules for Enhanced Blocking
+# Block any PayPal-related domains
+# /paypal*/
+# /.paypal./
+/.braintree./

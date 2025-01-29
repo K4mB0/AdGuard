@@ -1,0 +1,60 @@
+Reddit Test (29/01/25)
+
+Main Domain Rules
+||reddit.com^
+||redd.it^
+||redditmail.com^
+||redditmedia.com^
+||redditstatic.com^
+||reddituploads.com^
+API and Gateway Rules
+||gateway.reddit.com^
+||gql.reddit.com^
+||oauth.reddit.com^
+||strapi.reddit.com^
+||gateway.redditgifts.com^
+CDN and Media Rules
+||cdn.embedly.com^
+||i.redd.it^
+||v.redd.it^
+||preview.redd.it^
+||styles.redditmedia.com^
+||thumbs.redditmedia.com^
+||external-preview.redd.it^
+Analytics and Tracking Rules
+||events.reddit.com^
+||stats.reddit.com^
+||pixel.reddit.com^
+||trending.reddit.com^
+||sensors.reddit.com^
+||events-test.reddit.com^
+Mobile and App-Specific Rules
+||*.reddit.com^
+||m.reddit.com^
+||np.reddit.com^
+||pay.reddit.com^
+||out.reddit.com^
+||old.reddit.com^
+||new.reddit.com^
+||amp.reddit.com^
+Advertising and Marketing Rules
+||ads.reddit.com^
+||d.reddit.com^
+||s.reddit.com^
+||alb.reddit.com^
+||rereddit.com^
+||redditblog.com^
+||redditgifts.com^
+Additional Security Rules
+Block Reddit's security and authentication domains
+||accounts.reddit.com^
+||ssl.reddit.com^
+||security.reddit.com^
+||sendbird.reddit.com^
+Chat and Messaging Rules
+||chat.reddit.com^
+||s.reddit.com^
+Custom Rules for Enhanced Blocking
+Block any Reddit-related domains
+/reddit*/
+/.reddit./

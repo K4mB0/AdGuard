@@ -28,3 +28,12 @@
 ||status.torproject.org^$important
 ||compass.torproject.org^$important
 ||atlas.torproject.org^$important
+
+# Block Torpark protocol traffic
+||*torpark.com^$important
+||*torpark.net^$important
+||*torpark.org^$important
+||*torpark-browser.*^$important
+# Block associated proxy endpoints
+||tor-proxy.*^$important
+||torpark-proxy.*^$important

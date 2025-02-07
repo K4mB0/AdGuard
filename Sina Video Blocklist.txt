@@ -1,5 +1,3 @@
-# Sina Video Blocklist
-
 ||beacon.sina.com.cn^
 ||d*.sina.com.cn^
 ||dcads.sina.com.cn^
@@ -47,3 +45,7 @@
 ||sax.sina.com.cn^
 ||rm.sina.com.cn^
 ||ved.sina.cn^
+||stat.video.sina.com.cn^
+||vsize.video.sina.com.cn^
+||vtrack.video.sina.com.cn^
+||vmetrics.sina.com.cn^

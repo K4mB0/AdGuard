@@ -1,0 +1,8 @@
+# AdGuard Home DNS blocking rules for common L2TP servers
+
+||l2tp.*.com^
+||vpn.*.com^
+||strongvpn.com^
+||purevpn.com^
+||nordvpn.com^
+||expressvpn.com^

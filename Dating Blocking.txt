@@ -1,0 +1,84 @@
+Dating Sites and Apps Blocking Rules for AdGuard Home
+
+Major Dating Apps
+||tinder.com^$important
+||gotinder.com^$important
+||bumble.com^$important
+||badoo.com^$important
+||hinge.co^$important
+||grindr.com^$important
+||okcupid.com^$important
+||match.com^$important
+||pof.com^$important
+||plentyoffish.com^$important
+
+App Resources and CDNs
+||tindersparks.com^$important
+||tinder.net^$important
+||tindercdn.com^$important
+||bumblecdn.com^$important
+||badoocdn.com^$important
+||hingecdn.com^$important
+||grindrcdn.com^$important
+||okcupidcdn.com^$important
+||matchcdn.com^$important
+||pofcdn.com^$important
+
+API and Services
+||api.gotinder.com^$important
+||api.bumble.com^$important
+||api.badoo.com^$important
+||api.hinge.co^$important
+||api.grindr.com^$important
+||api.okcupid.com^$important
+||api.match.com^$important
+||api.pof.com^$important
+
+Additional Dating Platforms
+||eharmony.com^$important
+||zoosk.com^$important
+||coffee-meets-bagel.com^$important
+||coffeemeetsbagel.com^$important
+||ourtime.com^$important
+||christianmingle.com^$important
+||jdate.com^$important
+||happn.com^$important
+||tagged.com^$important
+||meetme.com^$important
+||skout.com^$important
+||lovoo.com^$important
+||weheartit.com^$important
+||her.com^$important
+||herapp.com^$important
+||feeld.co^$important
+||taimi.com^$important
+
+Dating App Analytics
+||analytics.gotinder.com^$important
+||analytics.bumble.com^$important
+||analytics.badoo.com^$important
+||analytics.hinge.co^$important
+||analytics.grindr.com^$important
+||metrics.okcupid.com^$important
+||stats.match.com^$important
+
+Authentication and Accounts
+||accounts.gotinder.com^$important
+||accounts.bumble.com^$important
+||accounts.badoo.com^$important
+||accounts.hinge.co^$important
+||accounts.grindr.com^$important
+||login.okcupid.com^$important
+||auth.match.com^$important
+
+Media and Chat Services
+||media.gotinder.com^$important
+||chat.gotinder.com^$important
+||media.bumble.com^$important
+||chat.bumble.com^$important
+||media.badoo.com^$important
+||chat.badoo.com^$important
+||media.hinge.co^$important
+||chat.hinge.co^$important
+||media.grindr.com^$important
+||chat.grindr.com^$important

@@ -1,0 +1,77 @@
+TikTok Blocking Rules for AdGuard Home
+
+Main TikTok Domains
+||tiktok.com^$important
+||www.tiktok.com^$important
+||m.tiktok.com^$important
+||vm.tiktok.com^$important
+||vt.tiktok.com^$important
+||t.tiktok.com^$important
+||tiktokv.com^$important
+||tiktokcdn.com^$important
+||tiktokcdn-*.com^$important
+
+TikTok CDN and Media
+||p16-tiktokcdn-com.akamaized.net^$important
+||p16-tiktokcdn.com^$important
+||p16-va.tiktokcdn.com^$important
+||p16-sign-va.tiktokcdn.com^$important
+||p16-sign-sg.tiktokcdn.com^$important
+||p16-sign.tiktokcdn-us.com^$important
+||p77-sign-va.tiktokcdn.com^$important
+||p77-sign-va-lite.tiktokcdn.com^$important
+||sf16-ies-music-va.tiktokcdn.com^$important
+||sf16-ies-music-sg.tiktokcdn.com^$important
+||sf16-sg.tiktokcdn.com^$important
+||sf-tb-sg.ibytedtos.com^$important
+||v16-webapp.tiktok.com^$important
+||v16.tiktokcdn.com^$important
+||v19.tiktokcdn.com^$important
+||v39.tiktokcdn.com^$important
+||tos-alisg-v-.tiktokcdn.com^$important
+||tos-useast-v-.tiktokcdn.com^$important
+||tos-euwest-v-*.tiktokcdn.com^$important
+
+TikTok API and Services
+||api.tiktok.com^$important
+||api-h2.tiktok.com^$important
+||api16-normal-c-useast1a.tiktokv.com^$important
+||api16-normal-c-useast2a.tiktokv.com^$important
+||api19-normal-c-useast1a.tiktokv.com^$important
+||api21-normal-c-useast1a.tiktokv.com^$important
+||api-va.tiktokv.com^$important
+||api-sg.tiktokv.com^$important
+||api-h2.tiktokv.com^$important
+||webcast.tiktok.com^$important
+||webcast16-normal-c-useast1a.tiktokv.com^$important
+||mcs-va.tiktok.com^$important
+
+TikTok Analytics and Business
+||ads.tiktok.com^$important
+||analytics.tiktok.com^$important
+||business.tiktok.com^$important
+||ads-api.tiktok.com^$important
+||analytics-sg.tiktok.com^$important
+||ads-sg.tiktok.com^$important
+||business-api.tiktok.com^$important
+
+TikTok Authentication
+||login.tiktok.com^$important
+||secure.tiktok.com^$important
+||oauth.tiktok.com^$important
+||verify-sg.byteoversea.com^$important
+
+Additional TikTok Services
+||musically.com^$important
+||musical.ly^$important
+||byteoversea.com^$important
+||byteoversea.net^$important
+||ibytedtos.com^$important
+||ibyteimg.com^$important
+||sgpstatp.com^$important
+||sgsnssdk.com^$important
+||tlivecdn.com^$important
+||ttlivecdn.com^$important
+||us.tiktok.com^$important
+||tiktokd.org^$important
+||bytedapm.com^$important

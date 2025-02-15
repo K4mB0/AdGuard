@@ -1,0 +1,86 @@
+PayPal Blocking Rules for AdGuard Home
+
+Main PayPal Domains
+||paypal.com^$important
+||www.paypal.com^$important
+||paypal.me^$important
+||paypalobjects.com^$important
+||paypal-communication.com^$important
+||paypal-survey.com^$important
+||paypalcommunity.com^$important
+
+PayPal API and Services
+||api.paypal.com^$important
+||api-m.paypal.com^$important
+||api-3t.paypal.com^$important
+||svcs.paypal.com^$important
+||ipnpb.paypal.com^$important
+||notify.paypal.com^$important
+
+PayPal CDN and Resources
+||cdn.paypal.com^$important
+||images.paypal.com^$important
+||pics.paypal.com^$important
+||www.paypalobjects.com^$important
+||c.paypal.com^$important
+||b.stats.paypal.com^$important
+
+PayPal Authentication
+||login.paypal.com^$important
+||secure.paypal.com^$important
+||checkout.paypal.com^$important
+||pilot-payflowpro.paypal.com^$important
+||pilot-payflowlink.paypal.com^$important
+||clientscripts.paypal.com^$important
+
+PayPal Business and Commerce
+||business.paypal.com^$important
+||merchant.paypal.com^$important
+||merchantbenefits.paypal.com^$important
+||shopping.paypal.com^$important
+||resolutioncenter.paypal.com^$important
+||marketingpreferences.paypal.com^$important
+
+PayPal Mobile and Apps
+||m.paypal.com^$important
+||wallet.paypal.com^$important
+||webapp.paypal.com^$important
+||mobile.paypal.com^$important
+||onetouch.paypal.com^$important
+||webintents.paypal.com^$important
+
+PayPal Partner and Developer
+||partner.paypal.com^$important
+||partnernet.paypal.com^$important
+||developer.paypal.com^$important
+||sandbox.paypal.com^$important
+||pilot-3t.sandbox.paypal.com^$important
+||pilot.sandbox.paypal.com^$important
+
+PayPal Security and Verification
+||verify.paypal.com^$important
+||disputes.paypal.com^$important
+||compliance.paypal.com^$important
+||src.paypal-communication.com^$important
+||prm.paypal-communication.com^$important
+||paypal-prepaid.com^$important
+
+Additional PayPal Services
+||history.paypal.com^$important
+||smart.paypal-communication.com^$important
+||t.paypal.com^$important
+||h.paypal.com^$important
+||donate.paypal.com^$important
+||giving.paypal.com^$important
+||mobilegiving.paypal.com^$important
+||registries.paypal.com^$important
+
+PayPal Regional Domains
+||paypal.co.uk^$important
+||paypal.de^$important
+||paypal.fr^$important
+||paypal.it^$important
+||paypal.es^$important
+||paypal.com.au^$important
+||paypal.ca^$important
+||paypal.nl^$important

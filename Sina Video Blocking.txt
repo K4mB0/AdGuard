@@ -1,0 +1,57 @@
+Sina Video Blocking Rules for AdGuard Home
+
+Main Sina Video Domains
+||video.sina.com.cn^$important
+||video.sina.cn^$important
+||video.sina.com^$important
+||kandian.sina.com.cn^$important
+||live.sina.com.cn^$important
+
+Sina Video CDN and Media
+||vhead.sina.com.cn^$important
+||edge.video.sina.com.cn^$important
+||video.sina.com.hk^$important
+||videocdn.sina.com.cn^$important
+||livepush.sina.com.cn^$important
+||pull.video.sina.cn^$important
+||dispatch.video.sina.com.cn^$important
+||v.iask.com^$important
+
+Sina Video API and Services
+||api.video.sina.com.cn^$important
+||api.videoplatform.sina.com.cn^$important
+||videoapi.sina.com.cn^$important
+||interface.video.sina.com.cn^$important
+||s.video.sina.com.cn^$important
+||count.video.sina.com.cn^$important
+
+Sina Video Storage and Distribution
+||vcdn.sina.com.cn^$important
+||vodcdn.video.sina.com.cn^$important
+||file.video.sina.com.cn^$important
+||upload.video.sina.com.cn^$important
+||vstorage.sina.com.cn^$important
+
+Sina Video Analytics and Ads
+||datacenter.sina.com.cn^$important
+||track.video.sina.com.cn^$important
+||adimg.mobile.sina.cn^$important
+||vstat.v.blog.sina.com.cn^$important
+||beacon.sina.com.cn^$important
+
+Additional Sina Services
+||sina.cn^$important
+||sina.com.cn^$important
+||sjs.sinajs.cn^$important
+||mjs.sinajs.cn^$important
+||vs.sina.com.cn^$important
+||p.t.sina.com.cn^$important
+||iplookup.video.sina.com.cn^$important
+||comment.sina.com.cn^$important
+||comment.video.sina.com.cn^$important
+
+Sina Video Mobile Services
+||mapi.sina.com^$important
+||video.sina.cn^$important
+||videoload.sina.cn^$important
+||livelog.sina.cn^$important

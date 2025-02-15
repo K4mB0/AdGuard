@@ -1,0 +1,64 @@
+Ko-fi Blocking Rules for AdGuard Home
+
+Main Domains
+||ko-fi.com^$important
+||kofi.com^$important
+||storage.ko-fi.com^$important
+||api.ko-fi.com^$important
+||cdn.ko-fi.com^$important
+
+Asset Domains and CDNs
+||assets.ko-fi.com^$important
+||media.ko-fi.com^$important
+||images.ko-fi.com^$important
+||static.ko-fi.com^$important
+
+Service Domains
+||shop.ko-fi.com^$important
+||payments.ko-fi.com^$important
+||checkout.ko-fi.com^$important
+||analytics.ko-fi.com^$important
+||tracking.ko-fi.com^$important
+||blog.ko-fi.com^$important
+||support.ko-fi.com^$important
+||help.ko-fi.com^$important
+||status.ko-fi.com^$important
+
+API and Backend Services
+||api-v2.ko-fi.com^$important
+||backend.ko-fi.com^$important
+||services.ko-fi.com^$important
+||gateway.ko-fi.com^$important
+
+Auth and Account Services
+||auth.ko-fi.com^$important
+||accounts.ko-fi.com^$important
+||login.ko-fi.com^$important
+||oauth.ko-fi.com^$important
+
+Payment and Transaction Related
+||stripe.ko-fi.com^$important
+||paypal.ko-fi.com^$important
+||transactions.ko-fi.com^$important
+
+Notification and Messaging
+||notifications.ko-fi.com^$important
+||messages.ko-fi.com^$important
+||email.ko-fi.com^$important
+
+Developer and Integration
+||developers.ko-fi.com^$important
+||docs.ko-fi.com^$important
+||integration.ko-fi.com^$important
+
+Alternate TLDs and Subdomains
+||ko-fi.net^$important
+||ko-fi.org^$important
+||kofi.net^$important
+||kofi.org^$important
+
+Common Variations and CDNs
+||kofi-cdn.com^$important
+||koficdn.com^$important
+||ko-fi-cdn.com^$important
+||kofi-assets.com^$important

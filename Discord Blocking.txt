@@ -1,0 +1,59 @@
+Discord Blocking Rules for AdGuard Home
+
+Main Discord Domains
+||discord.com^$important
+||discord.gg^$important
+||discord.gift^$important
+||discord.new^$important
+||discord.media^$important
+||discordapp.com^$important
+||discordapp.net^$important
+||dis.gd^$important
+
+Discord CDN and Media
+||cdn.discordapp.com^$important
+||images-ext-*.discordapp.net^$important
+||media.discordapp.net^$important
+||downloads.discordapp.net^$important
+||attachments.discordapp.net^$important
+
+Discord Voice and Video
+||voice.discordapp.com^$important
+||rtc.discord.media^$important
+||rtc*.discord.media^$important
+||media.discordapp.com^$important
+
+Discord Gateway and API
+||gateway.discord.gg^$important
+||status.discord.com^$important
+||api.discord.com^$important
+||discord-api.com^$important
+||discordstatus.com^$important
+
+Discord Support and Blog
+||support.discord.com^$important
+||support-dev.discord.com^$important
+||blog.discord.com^$important
+||safety.discord.com^$important
+
+Discord Authentication
+||login.discord.com^$important
+||oauth2.discord.com^$important
+||discord.co^$important
+
+Discord Store and Apps
+||app.discord.com^$important
+||apps.discord.com^$important
+||merch.discord.com^$important
+||streamkit.discord.com^$important
+||discord.design^$important
+
+Additional Discord Services
+||discord.dev^$important
+||discord.new^$important
+||discord.store^$important
+||discord.tools^$important
+||discordmerch.com^$important
+||discordactivities.com^$important
+||discordsays.com^$important
+||discord-activities.com^$important

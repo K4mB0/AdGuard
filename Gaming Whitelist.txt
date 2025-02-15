@@ -1,0 +1,56 @@
+Gaming Services Whitelist Rules for AdGuard Home
+
+Epic Games (Fortnite)
+@@||epicgames.com^$important
+@@||unrealengine.com^$important
+@@||ol.epicgames.com^$important
+@@||tracking.epicgames.com^$important
+@@||download.epicgames.com^$important
+@@||cdn.unrealengine.com^$important
+@@||cdn1.unrealengine.com^$important
+@@||cdn2.unrealengine.com^$important
+@@||cdn3.unrealengine.com^$important
+@@||datarouter.ol.epicgames.com^$important
+@@||api.epicgames.dev^$important
+@@||static-assets-prod.epicgames.com^$important
+@@||store-content.ak.epicgames.com^$important
+@@||fastly-download.epicgames.com^$important
+@@||account-public-service-prod.ol.epicgames.com^$important
+@@||fortnite-public-service-prod.ol.epicgames.com^$important
+
+Minecraft
+@@||minecraft.net^$important
+@@||mojang.com^$important
+@@||minecraftservices.com^$important
+@@||minecraft-services.net^$important
+@@||aws.minecraft.net^$important
+@@||session.minecraft.net^$important
+@@||textures.minecraft.net^$important
+@@||api.mojang.com^$important
+@@||authserver.mojang.com^$important
+@@||sessionserver.mojang.com^$important
+@@||libraries.minecraft.net^$important
+@@||resources.minecraft.net^$important
+@@||dl.minecraft.net^$important
+@@||realms.minecraft.net^$important
+
+Assetto Corsa
+@@||kunos-simulazioni.com^$important
+@@||acstuff.ru^$important
+@@||assettocorsa.net^$important
+@@||game.acstuff.ru^$important
+@@||content.assettocorsa.net^$important
+@@||lobby.kunos-simulazioni.com^$important
+@@||api.kunos-simulazioni.com^$important
+@@||auth.kunos-simulazioni.com^$important
+@@||cdn.kunos-simulazioni.com^$important
+@@||multiplayer.kunos-simulazioni.com^$important
+@@||services.kunos-simulazioni.com^$important
+
+Additional Gaming Services
+@@||steamcontent.com^$important
+@@||steamstatic.com^$important
+@@||steampowered.com^$important
+@@||steam-api.com^$important
+@@||akamaihd.net^$important
+@@||cloudfront.net^$important

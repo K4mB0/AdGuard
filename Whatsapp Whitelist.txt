@@ -1,0 +1,16 @@
+WhatsApp Whitelist
+
+@@||whatsapp.com^$important
+@@||whatsapp.net^$important
+@@||wa.me^$important
+@@||whatsapp.com/ajax^$important
+@@||static.whatsapp.net^$important
+@@||web.whatsapp.com^$important
+@@||api.whatsapp.com^$important
+@@||chat.whatsapp.com^$important
+@@||media.whatsapp.com^$important
+@@||media.fada1-*.fna.whatsapp.net^$important
+@@||g.whatsapp.net^$important
+@@||v.whatsapp.net^$important
+@@||w[0-9].web.whatsapp.com^$important
+@@||mmg.whatsapp.net^$important

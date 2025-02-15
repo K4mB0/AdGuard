@@ -1,0 +1,70 @@
+LiveChat Blocking Rules for AdGuard Home
+
+Main Domains
+||livechat.com^$important
+||livechatinc.com^$important
+||cdn.livechat.com^$important
+||cdn.livechatinc.com^$important
+||api.livechatinc.com^$important
+||api.livechat.com^$important
+||status.livechat.com^$important
+||accounts.livechat.com^$important
+
+Chat Widget and Customer-Facing
+||chat.livechat.com^$important
+||secure.livechatinc.com^$important
+||widget.livechat.com^$important
+||chat-widget.livechat.com^$important
+||customer.livechatinc.com^$important
+
+Analytics and Tracking
+||analytics.livechat.com^$important
+||analytics.livechatinc.com^$important
+||tracker.livechat.com^$important
+||stats.livechatinc.com^$important
+
+Application and Dashboard
+||app.livechatinc.com^$important
+||app.livechat.com^$important
+||dashboard.livechat.com^$important
+||my.livechatinc.com^$important
+
+Static Resources and Assets
+||static.livechat.com^$important
+||static.livechatinc.com^$important
+||assets.livechatinc.com^$important
+||resources.livechat.com^$important
+
+Regional and Backup
+||eu.livechat.com^$important
+||us.livechat.com^$important
+||asia.livechat.com^$important
+||backup.livechatinc.com^$important
+
+Integration Endpoints
+||integration.livechat.com^$important
+||connect.livechatinc.com^$important
+||api-connect.livechat.com^$important
+
+Legacy and Alternate Domains
+||livechat-static.com^$important
+||livechat-files.com^$important
+||livechatinc.net^$important
+||livechat.net^$important
+
+Development and Testing
+||dev.livechat.com^$important
+||test.livechatinc.com^$important
+||staging.livechat.com^$important
+
+Documentation and Support
+||developers.livechat.com^$important
+||docs.livechat.com^$important
+||help.livechat.com^$important
+||support.livechatinc.com^$important
+
+Additional Services
+||solutions.livechat.com^$important
+||marketplace.livechat.com^$important
+||partners.livechatinc.com^$important
+||community.livechat.com^$important

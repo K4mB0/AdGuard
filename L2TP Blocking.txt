@@ -1,0 +1,26 @@
+L2TP and VPN Protocol Blocking Rules for AdGuard Home
+
+L2TP Specific
+||l2tp.^$important
+||l2tpvpn.^$important
+||-l2tp.^$important
+||.l2tp.^$important
+
+L2TP Server Addresses
+||l2tp-us.^$important
+||l2tp-eu.^$important
+||l2tp-asia.^$important
+||vpn-l2tp.^$important
+
+Common L2TP Port DNS Names
+||-1701.^$important
+||port-1701.^$important
+||l2tpport.^$important
+
+Related VPN Protocol DNS
+||ipsec.^$important
+||-ipsec.^$important
+||pptp.^$important
+||-pptp.^$important
+||vpnserver.^$important
+||vpn-gateway.^$important

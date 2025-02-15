@@ -1,0 +1,75 @@
+Reddit Blocking Rules for AdGuard Home
+
+Main Reddit Domains
+||reddit.com^$important
+||www.reddit.com^$important
+||old.reddit.com^$important
+||np.reddit.com^$important
+||ssl.reddit.com^$important
+||pay.reddit.com^$important
+||bt.reddit.com^$important
+||m.reddit.com^$important
+||nm.reddit.com^$important
+||gateway.reddit.com^$important
+||redditmedia.com^$important
+||redditmail.com^$important
+||redd.it^$important
+||reddit.map.fastly.net^$important
+
+Reddit CDN and Media
+||i.redd.it^$important
+||v.redd.it^$important
+||preview.redd.it^$important
+||external-preview.redd.it^$important
+||redditmedia.com^$important
+||i.redditmedia.com^$important
+||thumbs.redditmedia.com^$important
+||styles.redditmedia.com^$important
+||static.redditmedia.com^$important
+||emoji.redditmedia.com^$important
+||redditstatic.com^$important
+||www.redditstatic.com^$important
+
+Reddit API and Services
+||api.reddit.com^$important
+||oauth.reddit.com^$important
+||accounts.reddit.com^$important
+||graphql.reddit.com^$important
+||strapi.reddit.com^$important
+||gql.reddit.com^$important
+||sendbirdproxy.chat.redditmedia.com^$important
+||sendbird.reddit.com^$important
+||styles.reddit.com^$important
+
+Reddit Analytics and Ads
+||ads.reddit.com^$important
+||events.reddit.com^$important
+||events.redditmedia.com^$important
+||stats.redditmedia.com^$important
+||pixel.redditmedia.com^$important
+||trends.reddit.com^$important
+||alb.reddit.com^$important
+
+Reddit Apps and Mobile
+||redditinc.com^$important
+||amp.reddit.com^$important
+||out.reddit.com^$important
+||reddituploads.com^$important
+||reddit.app.link^$important
+||click.redditmail.com^$important
+||redditblog.com^$important
+||redditgifts.com^$important
+||reddithelp.com^$important
+||reddit.zendesk.com^$important
+
+Additional Reddit Services
+||about.reddit.com^$important
+||blog.reddit.com^$important
+||code.reddit.com^$important
+||mod.reddit.com^$important
+||new.reddit.com^$important
+||reddit.com/r/^$important
+||reddit.com/u/^$important
+||redditgifts.com^$important
+||redditsecure.com^$important
+||redditsearch.io^$important

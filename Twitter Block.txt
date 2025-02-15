@@ -1,0 +1,51 @@
+AdGuard Home Rules for Blocking Twitter/X
+
+# Main Twitter/X Domains
+||twitter.com^$important
+||x.com^$important
+||twimg.com^$important
+||t.co^$important
+||twttr.com^$important
+||twitter.jp^$important
+||twitter.co^$important
+||twitter.net^$important
+
+# Twitter CDN and Media
+||abs.twimg.com^$important
+||pbs.twimg.com^$important
+||video.twimg.com^$important
+||ton.twimg.com^$important
+||api.twitter.com^$important
+||mobile.twitter.com^$important
+||tweetdeck.twitter.com^$important
+
+# Twitter Analytics and Tracking
+||analytics.twitter.com^$important
+||ads-api.twitter.com^$important
+||advertising.twitter.com^$important
+||platform.twitter.com^$important
+||syndication.twitter.com^$important
+||cdn.syndication.twimg.com^$important
+
+# Twitter Business and Developer
+||business.twitter.com^$important
+||dev.twitter.com^$important
+||developer.twitter.com^$important
+||cards-dev.twitter.com^$important
+
+# Twitter OAuth and Authentication
+||oauth.twitter.com^$important
+||sso.twitter.com^$important
+||api.twitter.com^$important
+
+# Twitter API Endpoints
+||api.twitter.com^$important
+||api-ssl.twitter.com^$important
+||upload.twitter.com^$important
+||media.twitter.com^$important
+
+# Additional Twitter Services
+||blog.twitter.com^$important
+||status.twitter.com^$important
+||help.twitter.com^$important
+||support.twitter.com^$important

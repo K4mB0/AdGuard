@@ -1,0 +1,58 @@
+Instagram Blocking Rules for AdGuard Home
+
+Main Instagram Domains
+||instagram.com^$important
+||www.instagram.com^$important
+||m.instagram.com^$important
+||api.instagram.com^$important
+||i.instagram.com^$important
+||help.instagram.com^$important
+||blog.instagram.com^$important
+||about.instagram.com^$important
+
+Instagram CDN and Media
+||cdninstagram.com^$important
+||scontent.cdninstagram.com^$important
+||scontent-.cdninstagram.com^$important
+||instagram-.cdninstagram.com^$important
+||*.cdninstagram.com^$important
+
+Instagram API and Services
+||api.instagram.com^$important
+||black.ish.instagram.com^$important
+||i.instagram.com^$important
+||graph.instagram.com^$important
+||logger.instagram.com^$important
+||badges.instagram.com^$important
+||platform.instagram.com^$important
+||api-platform.instagram.com^$important
+||graph.instagram.com^$important
+||tiles.instagram.com^$important
+
+Instagram Business and Analytics
+||business.instagram.com^$important
+||ads.instagram.com^$important
+||analytics.instagram.com^$important
+||ads-settings.instagram.com^$important
+||advertisers.instagram.com^$important
+Instagram Authentication
+||login.instagram.com^$important
+||secure.instagram.com^$important
+||oauth.instagram.com^$important
+
+Instagram Mobile and Apps
+||b.instagram.com^$important
+||z-p3.instagram.com^$important
+||z-p4.instagram.com^$important
+||z-p42.instagram.com^$important
+||z-p243.instagram.com^$important
+||android.instagram.com^$important
+||ios.instagram.com^$important
+||l.instagram.com^$important
+
+Additional Instagram Services
+||privacycenter.instagram.com^$important
+||wellbeing.instagram.com^$important
+||creators.instagram.com^$important
+||live.instagram.com^$important
+||shop.instagram.com^$important

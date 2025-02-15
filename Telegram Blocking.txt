@@ -1,0 +1,91 @@
+Telegram Blocking Rules for AdGuard Home
+
+Main Telegram Domains
+||telegram.org^$important
+||telegram.me^$important
+||t.me^$important
+||tdesktop.com^$important
+||telegra.ph^$important
+||telegram.dog^$important
+||telegram.space^$important
+||telegram.link^$important
+||telegram.software^$important
+||telegram.email^$important
+
+Telegram API and Core Services
+||api.telegram.org^$important
+||core.telegram.org^$important
+||desktop.telegram.org^$important
+||web.telegram.org^$important
+||venus.web.telegram.org^$important
+||pluto.web.telegram.org^$important
+||flora.web.telegram.org^$important
+||aurora.web.telegram.org^$important
+
+Telegram CDN and Media
+||cdn.telegram.org^$important
+||cdn*.t.me^$important
+||cdn*.telegram.org^$important
+||cdn-telegram.org^$important
+||telegram-cdn.org^$important
+||cdn.telesco.pe^$important
+
+Telegram Updates and Downloads
+||updates.telegram.org^$important
+||tx.me^$important
+||desktop.telegram.org^$important
+||macos.telegram.org^$important
+||android.telegram.org^$important
+||upload.telegram.org^$important
+
+Telegram Proxy and MTProto
+||mtproto.telegram.org^$important
+||proxy.telegram.org^$important
+||socks.telegram.org^$important
+||pulse.telegram.org^$important
+
+Telegram Web Services
+||web.telegram.org^$important
+||webk.telegram.org^$important
+||webapp.telegram.org^$important
+||webz.telegram.org^$important
+||weba.telegram.org^$important
+||web.tlgr.org^$important
+
+Telegram Bots and Games
+||bot.telegram.org^$important
+||bot.t.me^$important
+||games.telegram.org^$important
+||play.telegram.org^$important
+||quiz.telegram.org^$important
+||contest.telegram.org^$important
+||instantview.telegram.org^$important
+
+Telegram Forks and Alternative Clients
+||telega.io^$important
+||telegraf.js.org^$important
+||telesco.pe^$important
+||nicegram.app^$important
+||nicegram.org^$important
+||plus-messenger.org^$important
+||telegramx.org^$important
+||tgx.app^$important
+||forkgram.org^$important
+||videogram.io^$important
+||telegramtools.com^$important
+||tginfo.me^$important
+
+Additional Telegram Services
+||translations.telegram.org^$important
+||bugs.telegram.org^$important
+||themes.telegram.org^$important
+||premium.telegram.org^$important
+||donate.telegram.org^$important
+||comments.app^$important
+||fragment.com^$important
+||ton.org^$important
+||wallet.ton.org^$important
+||contest.com^$important
+||telescope.org^$important
+||graph.org^$important
+||click.telegram.org^$importan

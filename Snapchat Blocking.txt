@@ -1,0 +1,72 @@
+Snapchat Blocking Rules for AdGuard Home
+
+Main Snapchat Domains
+||snapchat.com^$important
+||snap.com^$important
+||snapkit.com^$important
+||snap-dev.net^$important
+||snapads.com^$important
+||snapchat.net^$important
+||snapmobile.net^$important
+
+Snapchat CDN and Media
+||sc-cdn.net^$important
+||sc-static.net^$important
+||snapimg.com^$important
+||app-analytics.snapchat.com^$important
+||aws.api.snapchat.com^$important
+||aws.duplex.snapchat.com^$important
+||bolt-gcdn.sc-cdn.net^$important
+||cf-st.sc-cdn.net^$important
+||gcs.sc-cdn.net^$important
+||gt-api.snapchat.com^$important
+||pro-snssdk.com^$important
+
+Snapchat API and Services
+||api.snapchat.com^$important
+||api.snapkit.com^$important
+||us-central1-gcp.api.snapchat.com^$important
+||us-east1-aws.api.snapchat.com^$important
+||us-east4-gcp.api.snapchat.com^$important
+||auth.snapchat.com^$important
+||kit.snapchat.com^$important
+||geofilters.snapchat.com^$important
+
+Snapchat Maps and Location
+||map.snapchat.com^$important
+||loc.sc-jpl.com^$important
+||pro-snssdk.com^$important
+||feelinsonice.com^$important
+||feelinsonice-hrd.appspot.com^$important
+||appspot.l.google.com^$important
+
+Snapchat Stories and Discover
+||stories.snapchat.com^$important
+||discover.snapchat.com^$important
+||aws.stg.snapchat.com^$important
+||stg.snapchat.com^$important
+
+Snapchat Ads and Analytics
+||ads.snapchat.com^$important
+||ads-interfaces.sc-cdn.net^$important
+||adsapi.snapchat.com^$important
+||analytics.snapchat.com^$important
+||tr.snapchat.com^$important
+||snapads.com^$important
+||snapchat-proxy.appspot.com^$important
+
+Snapchat Authentication
+||login.snapchat.com^$important
+||accounts.snapchat.com^$important
+||auth.snapchat.com^$important
+||sso.snapchat.com^$important
+
+Additional Snapchat Services
+||forbusiness.snapchat.com^$important
+||business.snapchat.com^$important
+||creativekit.snapchat.com^$important
+||lens.snapchat.com^$important
+||lenses.snapchat.com^$important
+||geofilters.snapchat.com^$important
+||support.snapchat.com^$important
+||community.snapchat.com^$important

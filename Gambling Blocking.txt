@@ -1,0 +1,107 @@
+Gambling Sites and Apps Blocking Rules for AdGuard Home
+
+Major Online Casinos
+||bet365.com^$important
+||betway.com^$important
+||bovada.lv^$important
+||casumo.com^$important
+||draftkings.com^$important
+||fanduel.com^$important
+||gambling.com^$important
+||gamcare.org.uk^$important
+||ladbrokes.com^$important
+||mansion.com^$important
+||paddypower.com^$important
+||partypoker.com^$important
+||pokerstars.com^$important
+||skybet.com^$important
+||unibet.com^$important
+||williamhill.com^$important
+||888.com^$important
+||888casino.com^$important
+||888poker.com^$important
+||bwin.com^$important
+
+Sports Betting
+||betfair.com^$important
+||betonline.ag^$important
+||pinnacle.com^$important
+||sportsbet.com.au^$important
+||sportingbet.com^$important
+||tipico.com^$important
+||betfred.com^$important
+||coral.co.uk^$important
+||marathonbet.com^$important
+||betvictor.com^$important
+||betsson.com^$important
+||betsafe.com^$important
+||nordicbet.com^$important
+
+Online Poker
+||wsop.com^$important
+||fulltilt.com^$important
+||globalpoker.com^$important
+||ignitioncasino.eu^$important
+||americascardroom.eu^$important
+||ggpoker.com^$important
+||winamax.com^$important
+||partypoker.net^$important
+||pokernow.club^$important
+||pokerbaazi.com^$important
+
+Lottery and Bingo
+||lottoland.com^$important
+||national-lottery.co.uk^$important
+||lottery.com^$important
+||megamillions.com^$important
+||powerball.com^$important
+||tombola.co.uk^$important
+||foxy.bingo^$important
+||galabingo.com^$important
+||jackpotjoy.com^$important
+||meccabingo.com^$important
+
+CDNs and Resources
+||bet365cdn.com^$important
+||betwaystatic.com^$important
+||casumocdn.com^$important
+||draftkingscdn.com^$important
+||fanduelcdn.com^$important
+||ladbrokescdn.com^$important
+||paddypowercdn.com^$important
+||pokerstarsstatic.com^$important
+||williamhillcdn.com^$important
+
+Gambling APIs and Services
+||api.bet365.com^$important
+||api.betway.com^$important
+||api.draftkings.com^$important
+||api.fanduel.com^$important
+||api.pokerstars.com^$important
+||api.williamhill.com^$important
+
+Gambling Payment Processors
+||skrill.com^$important
+||neteller.com^$important
+||ecopayz.com^$important
+||muchbetter.com^$important
+||paysafecard.com^$important
+
+Gambling Info and News
+||calvinayre.com^$important
+||casinomeister.com^$important
+||pokernews.com^$important
+||cardschat.com^$important
+||pokertube.com^$important
+||casinoorg.com^$important
+||vegasslotsonline.com^$important
+
+Crypto Gambling
+||stake.com^$important
+||roobet.com^$important
+||bc.game^$important
+||cloudbet.com^$important
+||bitcasino.io^$important
+||fortunejack.com^$important
+||betcoin.ag^$important
+||cryptogames.io^$important

@@ -1,0 +1,86 @@
+Complete WhatsApp Blocking Rules for AdGuard Home
+
+Main WhatsApp Domains
+||whatsapp.com^$important
+||whatsapp.net^$important
+||wa.me^$important
+||www.whatsapp.com^$important
+||web.whatsapp.com^$important
+||faq.whatsapp.com^$important
+
+WhatsApp Business
+||business.whatsapp.com^$important
+||api.whatsapp.com^$important
+||business-api.whatsapp.com^$important
+||whatsappbusiness.com^$important
+
+WhatsApp CDN and Media
+||static.whatsapp.net^$important
+||media.whatsapp.net^$important
+||media-maa1-1.cdn.whatsapp.net^$important
+||media-maa1-2.cdn.whatsapp.net^$important
+||media-amt2-1.cdn.whatsapp.net^$important
+||media-amt2-2.cdn.whatsapp.net^$important
+||media-arn2-1.cdn.whatsapp.net^$important
+||media-arn2-2.cdn.whatsapp.net^$important
+||media-cdt1-1.cdn.whatsapp.net^$important
+||media-cdt1-2.cdn.whatsapp.net^$important
+||media-dfw5-1.cdn.whatsapp.net^$important
+||media-dfw5-2.cdn.whatsapp.net^$important
+||media-frt3-1.cdn.whatsapp.net^$important
+||media-frt3-2.cdn.whatsapp.net^$important
+||media-frx5-1.cdn.whatsapp.net^$important
+||media-frx5-2.cdn.whatsapp.net^$important
+||media-iad3-1.cdn.whatsapp.net^$important
+||media-iad3-2.cdn.whatsapp.net^$important
+||media-lax3-1.cdn.whatsapp.net^$important
+||media-lax3-2.cdn.whatsapp.net^$important
+||media-lga3-1.cdn.whatsapp.net^$important
+||media-lga3-2.cdn.whatsapp.net^$important
+||media-lhr8-1.cdn.whatsapp.net^$important
+||media-lhr8-2.cdn.whatsapp.net^$important
+||media-mad1-1.cdn.whatsapp.net^$important
+||media-mad1-2.cdn.whatsapp.net^$important
+||g.whatsapp.net^$important
+
+WhatsApp Chat Servers
+||chat.cdn.whatsapp.net^$important
+||chat.whatsapp.com^$important
+||*.whatsapp.net^$important
+
+WhatsApp Voice and Video
+||pps.whatsapp.net^$important
+||v.whatsapp.net^$important
+||voip.whatsapp.net^$important
+||video.whatsapp.net^$important
+
+WhatsApp Status and Notifications
+||status.whatsapp.com^$important
+||notify.whatsapp.com^$important
+||crashlogs.whatsapp.net^$important
+||translate.whatsapp.com^$important
+
+WhatsApp Registration and Authentication
+||mmg.whatsapp.net^$important
+||mmg-fna.whatsapp.net^$important
+||privatestats.whatsapp.net^$important
+||dyn.web.whatsapp.com^$important
+
+WhatsApp Web and Desktop
+||wa-chat.web.whatsapp.com^$important
+||*.web.whatsapp.com^$important
+||w[0-9].web.whatsapp.com^$important
+||w[0-9][0-9].web.whatsapp.com^$important
+
+WhatsApp Payments
+||payments.whatsapp.com^$important
+||payments.whatsapp.net^$important
+
+Additional Meta/Facebook Domains Used by WhatsApp
+||graph.whatsapp.com^$important
+||graph.facebook.com^$important
+||connect.facebook.net^$important
+||connect.facebook.com^$important
+||mqtt-mini.facebook.com^$important
+||edge-mqtt.facebook.com^$important
+||*.fbcdn.net^$important

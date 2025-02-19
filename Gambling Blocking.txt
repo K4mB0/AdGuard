@@ -105,3 +105,42 @@ Crypto Gambling
 ||fortunejack.com^$important
 ||betcoin.ag^$important
 ||cryptogames.io^$important
+
+Fulla.bet Complete Blocking Rules for AdGuard Home #TESTING#
+
+Main Domains
+||fulla.bet^$important
+||*.fulla.bet^$important
+
+API and Services
+||api-afl.fulla.bet^$important
+||api.fulla.bet^$important
+||api-*.fulla.bet^$important
+||cdn.fulla.bet^$important
+||static.fulla.bet^$important
+||media.fulla.bet^$important
+
+Authentication and Accounts
+||auth.fulla.bet^$important
+||login.fulla.bet^$important
+||account.fulla.bet^$important
+||signup.fulla.bet^$important
+
+Betting Related
+||live.fulla.bet^$important
+||odds.fulla.bet^$important
+||betting.fulla.bet^$important
+||sports.fulla.bet^$important
+||casino.fulla.bet^$important
+||games.fulla.bet^$important
+
+Additional Services
+||stats.fulla.bet^$important
+||tracking.fulla.bet^$important
+||analytics.fulla.bet^$important
+||payments.fulla.bet^$important
+||support.fulla.bet^$important
+||help.fulla.bet^$important
+||m.fulla.bet^$important
+||mobile.fulla.bet^$important
+||app.fulla.bet^$important

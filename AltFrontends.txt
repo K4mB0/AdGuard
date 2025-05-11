@@ -1,0 +1,8 @@
+||ajay.app^$important
+||unduck.link^$important
+||tux.pizza^$important
+||*.tux.pizza^$important
+||cloudflare-ipfs.com^$important
+||*.onion.to^$important
+||*.tor2web.io^$important
+||*.i2p^$important

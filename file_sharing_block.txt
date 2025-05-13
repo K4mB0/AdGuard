@@ -1,0 +1,6 @@
+||.magnetdl.^$important
+||1fichier.com^$important
+||1fichier.net^$important
+||rapidshare.com^$important
+||rapidshare.de^$important
+||wetransfer.com^$important

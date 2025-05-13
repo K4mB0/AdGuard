@@ -1,0 +1,8 @@
+||cyberghost.com^$important
+||cyberghost.network^$important
+||pia.com^$important
+||piaservers.net^$important
+||tunnelbear.com^$important
+||tunnelbear.net^$important
+||windscribe.com^$important
+||windscribe.net^$important

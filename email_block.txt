@@ -1,0 +1,15 @@
+||cock.li^$important
+||ctemplar.com^$important
+||gmx.at^$important
+||gmx.ch^$important
+||gmx.com^$important
+||gmx.de^$important
+||gmx.net^$important
+||runbox.com^$important
+||tutanota.com^$important
+||tutanota.de^$important
+||yahoo.co.*^$important
+||yahoo.com^$important
+||yahoogroups.com^$important
+||zoho.com^$important
+||zoho.eu^$important

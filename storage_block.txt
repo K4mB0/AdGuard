@@ -1,0 +1,4 @@
+||multcloud.com^$important
+||multcloud.net^$important
+||pcloud.com^$important
+||pcloud.link^$important

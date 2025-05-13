@@ -1,0 +1,13 @@
+||*.ddg.gg^$important
+||*.duck.com^$important
+||*.duckduckgo.com^$important
+||appspot.l.google.com^$important
+||bitsearch.*^$important
+||ddg.gg^$important
+||duck.com^$important
+||duckduckgo.com^$important
+||foxy.bingo^$important
+||galabingo.com^$important
+||meccabingo.com^$important
+||th.bing.com^$important
+||tracker.bitsearch.to^$important

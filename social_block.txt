@@ -1,0 +1,10 @@
+||box.com^$important
+||fakeinbox.com^$important
+||imgbox.com^$important
+||sankakucomplex.com^$important
+||tempinbox.com^$important
+||threads.net^$important
+||tracker2.itzmx.com^$important
+||uptobox.com^$important
+||winamax.com^$important
+||x.com^$important

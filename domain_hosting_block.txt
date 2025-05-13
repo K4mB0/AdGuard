@@ -1,0 +1,9 @@
+||bluehost.com^$important
+||dreamhost.com^$important
+||godaddy.com^$important
+||hostinger.com^$important
+||hover.com^$important
+||ionos.co.uk^$important
+||ionos.com^$important
+||name.com^$important
+||networksolutions.com^$important
